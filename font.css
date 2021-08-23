@@ -1,5 +1,5 @@
 .body{
-  background-color: #b2bdca;
+  background-color: #d3dae3;
 }
 
 .header{
@@ -127,7 +127,7 @@
 .a2{
      height: 65px;
      width: 105px;
-     background-color: #b2bdca;
+     background-color: #d3dae3;
      text-decoration: none;
      font-family: Arial, Helvetica, sans-serif;
      border-radius: 12px;
@@ -150,9 +150,9 @@
 
 
 .hr1{
-    border-color: #b2bdca;
+    border-color: #d3dae3;
     height: 1px;
-    background-color: #b2bdca;
+    background-color: #d3dae3;
     justify-content: center;
     align-content: center;
     width:50%;
@@ -173,7 +173,7 @@
   border: 1px;
   border-color: #1b1b1c; 
   border: 0;
-  background-color: #b2bdca;
+  background-color: #d3dae3;
   margin-left: 0;
   margin-right: 0;
   margin: 50px auto;
@@ -192,7 +192,7 @@
   border: 1px;
   border-color: #1b1b1c; 
   border: 0;
-  background-color: #b2bdca;
+  background-color: #d3dae3;
   margin-left: 0;
   margin-right: 0;
   margin: 50px auto;
@@ -303,7 +303,7 @@
   border: 1px;
   border-color: #1b1b1c; 
   border: 0;
-  background-color: #b2bdca;
+  background-color: #d3dae3;
   margin-left: 0;
   margin-right: 0;
   margin: 50px auto;
